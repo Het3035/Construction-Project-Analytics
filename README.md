@@ -1,10 +1,6 @@
 # Construction Project Cost & Performance Analysis
 
-[svg](https://github.com/Het3035/Construction-Project-Analytics#-construction-project-cost--performance-analysis)
-
 ## 📊 Data Analytics Project
-
-[svg](https://github.com/Het3035/Construction-Project-Analytics#-data-analytics-project)
 
 A Data Analytics project focused on analyzing construction project costs, budgets, delays, contractors, project types, locations, and overall project performance.
 
@@ -14,15 +10,11 @@ The project uses **Python, Pandas, NumPy, Matplotlib, Plotly, SQL, and Power BI*
 
 ## 👨‍💻 Developed By
 
-[svg](https://github.com/Het3035/Construction-Project-Analytics#-developed-by)
-
 **Het Patel**
 
 ---
 
 ## 🎯 Project Objective
-
-[svg](https://github.com/Het3035/Construction-Project-Analytics#-project-objective)
 
 The main objective of this project is to analyze construction project data and identify useful insights related to:
 
@@ -44,8 +36,6 @@ The analysis helps understand **where construction costs increase, which project
 
 ## 🛠️ Tools & Technologies
 
-[svg](https://github.com/Het3035/Construction-Project-Analytics#%EF%B8%8F-tools--technologies)
-
 - **Python**
 - **Pandas**
 - **NumPy**
@@ -62,12 +52,10 @@ The analysis helps understand **where construction costs increase, which project
 
 ## 📌 Key Performance Indicators (KPIs)
 
-[svg](https://github.com/Het3035/Construction-Project-Analytics#-key-performance-indicators-kpis)
-
 The Power BI dashboard contains important construction project KPIs:
 
 | **KPI** | **Value** |
-| ------------------------- | ----------- |
+|---|---:|
 | 🏗️ Total Projects | 1,000 |
 | 💰 Total Estimated Budget | ₹20,429.85 Cr |
 | 💵 Total Actual Cost | ₹20,803.96 Cr |
@@ -78,11 +66,7 @@ The Power BI dashboard contains important construction project KPIs:
 
 ## 🔍 Analysis Performed
 
-[svg](https://github.com/Het3035/Construction-Project-Analytics#-analysis-performed)
-
 ### 1. 💰 Budget & Actual Cost Analysis
-
-[svg](https://github.com/Het3035/Construction-Project-Analytics#1--budget--actual-cost-analysis)
 
 Compared the estimated project budget with the actual construction cost.
 
@@ -99,8 +83,6 @@ The overall dataset shows a **1.83% budget overrun**, meaning total actual const
 
 ### 2. 📈 Budget Overrun Analysis
 
-[svg](https://github.com/Het3035/Construction-Project-Analytics#2--budget-overrun-analysis)
-
 Calculated budget overrun for individual projects using the difference between estimated budget and actual cost.
 
 The analysis also calculates the percentage of budget overrun.
@@ -115,8 +97,6 @@ The project analyzes budget overruns across:
 ---
 
 ### 3. 🏗️ Project Type Analysis
-
-[svg](https://github.com/Het3035/Construction-Project-Analytics#3--project-type-analysis)
 
 Analyzed construction projects based on project type:
 
@@ -138,8 +118,6 @@ The analysis compares project types based on:
 
 ### 4. 📍 Location-wise Cost Analysis
 
-[svg](https://github.com/Het3035/Construction-Project-Analytics#4--location-wise-cost-analysis)
-
 Analyzed construction costs across different project locations.
 
 The analysis compares:
@@ -154,8 +132,6 @@ This helps understand differences in construction activity and project costs acr
 ---
 
 ### 5. ⏱️ Project Delay Analysis
-
-[svg](https://github.com/Het3035/Construction-Project-Analytics#5--project-delay-analysis)
 
 Analyzed project completion delays using the `Delay_Days` column.
 
@@ -173,8 +149,6 @@ This analysis helps identify projects that require closer monitoring of their pl
 
 ### 6. 👷 Contractor Performance Analysis
 
-[svg](https://github.com/Het3035/Construction-Project-Analytics#6--contractor-performance-analysis)
-
 Analyzed contractor performance based on construction projects handled by different contractors.
 
 The analysis includes:
@@ -190,8 +164,6 @@ This provides a way to compare contractor-related project performance using meas
 
 ### 7. 🧱 Construction Cost Component Analysis
 
-[svg](https://github.com/Het3035/Construction-Project-Analytics#7--construction-cost-component-analysis)
-
 Analyzed the major components contributing to total construction costs:
 
 - Material Cost
@@ -205,8 +177,6 @@ The analysis helps understand how construction expenditure is distributed across
 
 ### 8. 📐 Project Area & Cost Analysis
 
-[svg](https://github.com/Het3035/Construction-Project-Analytics#8--project-area--cost-analysis)
-
 Analyzed the relationship between project area and construction cost metrics.
 
 The analysis found a strong positive correlation of approximately **0.89 between project area and cost per square foot** in this dataset.
@@ -215,9 +185,7 @@ Correlation indicates the strength of the relationship between the variables but
 
 ---
 
-## 📊 Python Analysis
-
-[svg](https://github.com/Het3035/Construction-Project-Analytics#-python-analysis)
+## 🐍 Python Analysis
 
 Python was used for data analysis and visualization.
 
